@@ -1,0 +1,26 @@
+
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+  text-align: center;
+  margin: 5px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#filler_boxes > input {
+  margin-right:5px;
+  margin-bottom: 5px;
+  font-size: 12px;
+  width: 300px;
+}
+
+#paragraph_text{
+  font-size: 12px;
+}
+
+#container{
+  display: inline-block;
+}
